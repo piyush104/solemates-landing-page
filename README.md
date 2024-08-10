@@ -20,5 +20,6 @@
 
 -> Subscribe ![subscribe](https://github.com/user-attachments/assets/70a89b8e-42dc-4c62-a556-e95936ca7f20)
 
--> Footer ![footer](https://github.com/user-attachments/assets/cd85fafd-ce77-45e3-ba5d-be995013cb22) 
+-> Footer ![footer](https://github.com/user-attachments/assets/085e1451-d0fa-4eb4-b73f-ab1965d36f9b)
 
+Open http://localhost:5173 in your browser to view the project.
